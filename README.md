@@ -6,7 +6,7 @@ It lets users calculate their **exact age** in years, months, and days from thei
 ---
 
 ## 🚀 Live Demo
-[🔗 View Project](#) <!-- Replace # with your live link when hosted -->
+🔗 https://bishal-sutradhar.github.io/Age-calculator-micro-project/
 
 ---
 
