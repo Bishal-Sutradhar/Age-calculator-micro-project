@@ -36,7 +36,7 @@ h2 {
     border-radius: 50px;
     font-size: 1.3rem;
     font-weight: 600;
-    background-color: rgb(51, 255, 0);
+    background-color: rgb(93, 199, 67);
     color: white;
     border: none;
     transition: all 0.5s;
@@ -100,4 +100,5 @@ input {
         font-size: 1rem;
     }
 }
+
 
